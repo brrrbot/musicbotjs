@@ -1,3 +1,7 @@
+**NOTE**
+========================
+this code sucks and is not going to be maintained anymore, check [bob](https://github.com/brrrbot/bob)
+
 ```
 MUSICBOT
 ========================
@@ -12,6 +16,3 @@ Step3: run musicbot.js
 IMPORTANT NOTICE:
 discord-player-youtubei version is not supported by node version <18.17
 ```
-**NOTE**
-========================
-this code sucks and is not going to be maintained anymore, check [bob](https://github.com/brrrbot/bob)
